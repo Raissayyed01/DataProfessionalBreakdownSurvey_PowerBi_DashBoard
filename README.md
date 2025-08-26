@@ -1,20 +1,56 @@
-# DataProfessionalBreakdownSurvey_PowerBi_DashBoard
-This project presents an interactive Power BI dashboard built on survey data from data professionals across the globe. The analysis provides key insights into demographics, career roles, compensation trends, and work satisfaction levels, helping to better understand the data industry landscape.
+📊 Data Professional Breakdown Survey – Power BI Dashboard
+📌 Overview
 
-# Key Insights
+This project presents an interactive Power BI dashboard built on survey data from data professionals worldwide. The goal is to analyze demographics, job roles, salaries, satisfaction levels, and work-life balance to gain insights into the global data industry landscape.
 
-Participants: 630 professionals, with an average age of ~30 years.
+📂 Dataset
 
-Job Roles & Salaries: Data Scientists and Data Engineers reported the highest average salaries, while entry-level roles such as Data Analysts and Students showed lower ranges.
+Source: Data Professional Survey Dataset
 
-Gender Distribution: Visualized through salary comparisons by gender to highlight potential disparities.
+Columns: Unique ID, Age, Gender, Country, Job Title, Salary, Favorite Programming Language, Work-Life Balance, Salary Satisfaction
 
-Programming Languages: Breakdown of the most preferred coding languages among professionals.
+Size: 630 entries
 
-Workplace Insights: Average rating of 5.74/10 for work-life balance and 4.27/10 for salary satisfaction, providing a realistic picture of industry sentiment.
+📊 Dashboard Features
 
-Geographical Spread: Majority of respondents from the United States and India, followed by the UK and Canada.
+Demographics Overview – Average age (29.87 years) and survey participant count (630).
 
-# Outcome
+Job Roles & Salaries – Compare average salaries across roles (Data Scientist, Data Engineer, Data Analyst, etc.).
 
-This dashboard showcases the power of Power BI in turning raw survey data into meaningful visual stories. It enables users to explore the professional landscape of data-related roles, compare career trends, and identify patterns across demographics, geography, and satisfaction levels.
+Gender Insights – Salary distribution across male and female professionals.
+
+Programming Languages – Favorite coding languages among professionals.
+
+Workplace Metrics – Ratings for Work-Life Balance (5.74/10) and Salary Satisfaction (4.27/10).
+
+Geographic Spread – Country-wise participation, led by the US and India.
+
+🔍 Key Insights
+
+Data Scientists and Data Engineers earn the highest average salaries.
+
+Male participants outnumber female participants significantly.
+
+Python emerges as a top programming language among professionals.
+
+Professionals report moderate satisfaction with work-life balance and salary.
+
+Strong participation from US, India, UK, and Canada.
+
+🚀 Outcome
+
+This Power BI project highlights how raw survey data can be transformed into actionable insights. The dashboard allows interactive exploration of industry trends, helping professionals and organizations understand compensation, satisfaction, and demographics within the data field.
+
+📸 Dashboard Preview
+
+🛠️ How to Use
+
+Clone this repository
+
+Open the .pbix file in Power BI Desktop
+
+Explore interactive visuals and apply filters for deeper insights
+
+👨‍💻 Author
+
+Rais Sayyed – Electronics & Telecommunication Engineer | Data Analytics Enthusiast
