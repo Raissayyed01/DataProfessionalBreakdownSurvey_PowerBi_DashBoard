@@ -1,9 +1,10 @@
-📊 Data Professional Breakdown Survey – Power BI Dashboard
-📌 Overview
+# 📊 Data Professional Breakdown Survey – Power BI Dashboard
+
+# 📌 Overview
 
 This project presents an interactive Power BI dashboard built on survey data from data professionals worldwide. The goal is to analyze demographics, job roles, salaries, satisfaction levels, and work-life balance to gain insights into the global data industry landscape.
 
-📂 Dataset
+# 📂 Dataset
 
 Source: Data Professional Survey Dataset
 
@@ -11,7 +12,7 @@ Columns: Unique ID, Age, Gender, Country, Job Title, Salary, Favorite Programmin
 
 Size: 630 entries
 
-📊 Dashboard Features
+# 📊 Dashboard Features
 
 Demographics Overview – Average age (29.87 years) and survey participant count (630).
 
@@ -25,7 +26,7 @@ Workplace Metrics – Ratings for Work-Life Balance (5.74/10) and Salary Satisfa
 
 Geographic Spread – Country-wise participation, led by the US and India.
 
-🔍 Key Insights
+# 🔍 Key Insights
 
 Data Scientists and Data Engineers earn the highest average salaries.
 
@@ -37,13 +38,13 @@ Professionals report moderate satisfaction with work-life balance and salary.
 
 Strong participation from US, India, UK, and Canada.
 
-🚀 Outcome
+# 🚀 Outcome
 
 This Power BI project highlights how raw survey data can be transformed into actionable insights. The dashboard allows interactive exploration of industry trends, helping professionals and organizations understand compensation, satisfaction, and demographics within the data field.
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
-🛠️ How to Use
+# 🛠️ How to Use
 
 Clone this repository
 
