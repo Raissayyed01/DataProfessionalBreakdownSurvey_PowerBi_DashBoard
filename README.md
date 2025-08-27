@@ -42,6 +42,7 @@ Strong participation from US, India, UK, and Canada.
 
 This Power BI project highlights how raw survey data can be transformed into actionable insights. The dashboard allows interactive exploration of industry trends, helping professionals and organizations understand compensation, satisfaction, and demographics within the data field.
 
+![Dashboard Screenshot](images/dashboard.png)
 
 # 🛠️ How to Use
 
