@@ -70,7 +70,9 @@ An interactive Power BI dashboard built from survey data of ~630 data profession
 This project demonstrates how raw survey data can be transformed into interactive, actionable dashboards that support industry-level decision-making and trend exploration.
 
 ## Dashboard Preview  
-![Dashboard Screenshot](https://github.com/Raissayyed01/DataProfessionalBreakdownSurvey_PowerBi_DashBoard/blob/main/images/PowerBi%20Dashboard.png?raw=true)
+![Dashboard Screenshot](
+> *![dashboard_preview](https://github.com/Raissayyed01/DataProfessionalBreakdownSurvey_PowerBi_DashBoard/blob/main/images/PowerBi%20Dashboard.png?raw=true)*
+
 
 ## How to Use
 1. Clone the repository  
