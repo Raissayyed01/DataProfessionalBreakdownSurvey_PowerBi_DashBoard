@@ -42,7 +42,46 @@ Strong participation from US, India, UK, and Canada.
 
 This Power BI project highlights how raw survey data can be transformed into actionable insights. The dashboard allows interactive exploration of industry trends, helping professionals and organizations understand compensation, satisfaction, and demographics within the data field.
 
+# Data Professional Breakdown Survey – Power BI Dashboard
+
+## Overview
+An interactive Power BI dashboard built from survey data of ~630 data professionals worldwide. It analyzes demographics, roles, compensation, satisfaction, and work-life balance to surface meaningful industry insights.
+
+## Dataset
+- **Source**: Data Professional Survey Dataset  
+- **Entries**: 630  
+- **Fields**: ID, Age, Gender, Country, Job Title, Salary, Favorite Programming Language, Work-Life Balance, Salary Satisfaction
+
+## Dashboard Features
+- **Demographics**: Average participant age (~29.9 years), total count.
+- **Role & Salary Comparison**: Explore average salaries by job function (Data Scientist, Engineer, Analyst, etc.).
+- **Gender Insights**: Salary distribution across genders.
+- **Tech Stack**: Most popular programming languages.
+- **Satisfaction Metrics**: Work-life balance (avg. ~5.74/10) and salary satisfaction (~4.27/10).
+- **Global Participation**: Country breakdown—led by the US, India, UK, and Canada.
+
+## Key Insights
+- Highest average salaries seen in Data Scientists and Data Engineers.
+- Noticeable gender gap in participant counts.
+- Python stands out as the most popular language.
+- Professionals report moderate satisfaction levels with both salary and work-life balance.
+
+## Outcome
+This project demonstrates how raw survey data can be transformed into interactive, actionable dashboards that support industry-level decision-making and trend exploration.
+
+## Dashboard Preview  
 ![Dashboard Screenshot](images/PowerBi Dashboard.png)
+
+## How to Use
+1. Clone the repository  
+2. Open `PowerBi Project.pbix` in **Power BI Desktop**  
+3. Interact with visuals and slicers to explore insights
+
+---
+
+**Author:**  
+Rais Sayyed – Electronics & Telecommunication Engineer | Data Analytics Enthusiast
+
 
 # 🛠️ How to Use
 
