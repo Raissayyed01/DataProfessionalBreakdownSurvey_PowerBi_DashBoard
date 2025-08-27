@@ -34,7 +34,7 @@ The goal of this project is to transform raw survey data into **meaningful insig
 ---
 
 ## 📸 Dashboard Preview  
-![image alt](https://github.com/Raissayyed01/DataProfessionalBreakdownSurvey_PowerBi_DashBoard/blob/main/images/PowerBi%20Dashboard.png?raw=true)
+![image alt](https://github.com/Raissayyed01/DataProfessionalBreakdownSurvey_PowerBi_DashBoard/blob/a5532bf7727460037b16dcd0f3176285741fa4bd/PowerBi%20Dashboard.png)
 
 ---
 
